@@ -23,5 +23,6 @@ s="Hello world"
 s=s[0:6]+"W"+s[-4:]
 s=s.replace('W',"w")
 print(s)
-
+s="abc "*5
+print(s)
 print(result)
